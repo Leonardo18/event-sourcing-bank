@@ -7,4 +7,4 @@ Java microservice with api interfaces using ***Axon Framework*** to event sourci
 * After run tests to have sure Mongo is available, if tests pass, can now run application and make API calls
 
 ### Acknowledgments
-[Axon Framework documentation](https://docs.axonframework.org/part-i-getting-started/introduction)
+* [Axon Framework documentation](https://docs.axonframework.org/part-i-getting-started/introduction)
